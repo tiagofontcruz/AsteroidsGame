@@ -4,7 +4,7 @@ Simple overview of use/purpose.
 
 ## Description
 
-The code was produced in C++ with Blit3D engine in the Game Development program at New Brunswick Community College (first term).
+The code was produced in C++ with Blit3D engine in the Game Development program at New Brunswick Community College (second term).
 
 ## Getting Started
 
